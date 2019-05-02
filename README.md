@@ -3,6 +3,6 @@ Summer 18 Senior Design Project created to help teach new drivers to drive a man
 
 
 ### Authors
-* [Adam Richman](http://www.github.com/jmansmann)
+* [Jimmy Mansmann](http://www.github.com/jmansmann)
 * [Ben Rarrick](http://www.github.com/benrarrick)
 * [Nick Albanese]
